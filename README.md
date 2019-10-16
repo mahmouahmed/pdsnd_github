@@ -9,6 +9,16 @@ Describe what your project is about and what it does(data for bikeshare system f
 
 ### Files used
 Include the files used
+2017Q1-capitalbikeshare-tripdata.csv
+2017Q2-capitalbikeshare-tripdata.csv
+2017Q3-capitalbikeshare-tripdata.csv
+2017Q4-capitalbikeshare-tripdata.csv
+Divvy_Stations_2017_Q1Q2.csv
+Divvy_Trips_2017_Q1.csv
+Divvy_Trips_2017_Q2.csv
+data-9KAuN.csv
+data-Whjsi.csv
+README.txt
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
